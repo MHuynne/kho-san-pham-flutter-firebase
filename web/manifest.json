@@ -1,0 +1,35 @@
+{
+    "name": "Kho Sản Phẩm",
+    "short_name": "Kho Sản Phẩm",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#172E29",
+    "theme_color": "#172E29",
+    "description": "Quản trị danh mục và tồn kho sản phẩm.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
